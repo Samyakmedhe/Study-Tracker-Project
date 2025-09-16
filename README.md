@@ -15,6 +15,8 @@ A simple, elegant web application to **track your study sessions**, log subjects
 ✅ Deployable to GitHub Pages or any static host
 
 ---
+## Frontend 🖥️
+<img width="1697" height="972" alt="StudyTracker" src="https://github.com/user-attachments/assets/a7f05187-83d4-46d6-af0d-11c28d42d888" />
 
 ## 🛠️ Tech Stack
 
