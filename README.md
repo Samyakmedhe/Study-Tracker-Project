@@ -37,8 +37,11 @@ A simple, elegant web application to **track your study sessions**, log subjects
 
 ---
 
-### ✅ Clone the repository
+### Run 
 
 ```bash
-git clone https://github.com/Samyakmedhe/Study-Tracker-Project.git
-cd Study-Tracker-Project
+node server.js // Server
+
+npm install
+npm start // Frontend Angular
+
